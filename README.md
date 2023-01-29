@@ -1,2 +1,2 @@
-# mayanksoni121.github.io
+# Mayank Soni
 This is my blog. 
